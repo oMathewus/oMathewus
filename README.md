@@ -1,4 +1,4 @@
-### Hi! my name is Matheus👀
+### Hi! My name is Matheus👀
 
 - 🔭 Today I work using Python
 - 🌱 Studying English
