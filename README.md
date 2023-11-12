@@ -1,4 +1,4 @@
-### Hi! My name is Matheus👀
+### Hi! My name is Matheus Vinícius👀
 
 - 🔭 Today I work using Python
 - 🌱 Studying English
@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.nasm.us/images/nasm.png">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Qfs6EVvsXYIAAAAM/coffee-blow.gif">
 </div>
   
