@@ -10,10 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oMathewus&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.nasm.us/images/nasm.png">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Qfs6EVvsXYIAAAAM/coffee-blow.gif">
+  <img align="center" alt="Math-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Math-Assembly" height="30" width="40" src="https://www.nasm.us/images/nasm.png">
+  <img align="right" alt="Math-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Qfs6EVvsXYIAAAAM/coffee-blow.gif">
 </div>
   
   ##
