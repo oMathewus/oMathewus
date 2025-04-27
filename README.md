@@ -1,63 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Matheus Vinícius!</h1>
-
+<h1 align="center">Hi 👋, I'm Matheus Vinícius</h1>
 <p align="center">
-  🔥 Full Stack Developer passionate about technology and always evolving!
+  🔭 I currently work with Python and Web Development<br>
+  🌱 I'm studying English<br>
+  📫 Contact me: desenvolvedor.matheus0@gmail.com
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python,+JavaScript,+Java,+C,+Lua;Frontend+%2F+Backend+%2F+Database;Always+learning+and+improving!+🚀" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🧑‍💻 I'm currently working mainly with **Python** development.
-- 📚 I'm studying **English** and expanding my technical stack.
-- 🎯 Focused on Web Development, Software Development, and Database Management.
-- ✉️ Contact me at: **desenvolvedor.matheus0@gmail.com**
-
----
-
-### 🛠️ Skills
-
-#### Front-end
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-</div>
-
-#### Back-end
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Laravel" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
-#### Databases
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-#### Other Languages
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-</div>
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/oMathewus">
@@ -68,24 +14,50 @@
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Skills
 
+### Front-End
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![ReactJS](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+---
+
+### Back-End
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=007396)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+
+---
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+---
+
+### Other Languages
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=2C2D72)
+
+---
+
+## 📫 Connect with me
 <div align="center">
+  <a href="mailto:desenvolvedor.matheus0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
   <a href="https://github.com/oMathewus" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:desenvolvedor.matheus0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://c.tenor.com/Qfs6EVvsXYIAAAAM/coffee-blow.gif" width="150" style="border-radius: 50px;">
-</div>
-
----
-
-> ✨ *"Success is the sum of small efforts repeated every day!"* 🚀
-
