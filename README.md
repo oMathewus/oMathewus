@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, I'm Matheus Vinícius
+## नमस्ते 🕷, I'm Matheus Vinícius
 ## Software Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/matheus-vin%C3%ADcius-b42785311/)
