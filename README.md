@@ -4,8 +4,6 @@
   🌱 I'm studying English<br>
   📫 Contact me: desenvolvedor.matheus0@gmail.com
 </p>
----
-
 ## 🚀 Skills
 
 ### Front-End
