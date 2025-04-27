@@ -18,9 +18,7 @@ const ashraf = {
         fronEnd: ["html", "css3", "tailwind", "typeScript", "next.js", "bootstrap"],
         mobileApp: ["kivy"],
         database: ["mongodb","postgreSQL", "sqlite3", "mySql"],
-        serverless: ["mongo-realm"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        serverless: ["mongo-realm"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
