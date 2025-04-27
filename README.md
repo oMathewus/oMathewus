@@ -21,7 +21,6 @@ const ashraf = {
         serverless: ["mongo-realm"],
         devOps: ["AWS", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    }
 }
 ```
