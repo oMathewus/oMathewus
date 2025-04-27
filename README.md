@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matheus Vinícius</h1>
 <p align="center">
-  🔭 I currently work with Python and Web Development<br>
-  🌱 I'm studying English<br>
-  📫 Contact me: desenvolvedor.matheus0@gmail.com
+  🚀 "Success is the sum of small efforts repeated every day!"
 </p>
+
+---
+
 ## 🚀 Skills
 
 ### Front-End
@@ -49,5 +50,8 @@
   </a>
   <a href="https://github.com/oMathewus" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.matheeus.site/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-000?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" />
   </a>
 </div>
